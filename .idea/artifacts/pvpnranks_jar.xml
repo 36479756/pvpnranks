@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pvpnranks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pvpnranks_jar</output-path>
+    <root id="archive" name="pvpnranks.jar">
+      <element id="module-output" name="pvpnranks" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

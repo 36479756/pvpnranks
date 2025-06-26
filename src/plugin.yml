@@ -1,0 +1,6 @@
+name: pvpnranks
+version: 1.0
+main: me.electcell.pvpnranks.Main
+commands:
+  hello:
+    description: Says hello
